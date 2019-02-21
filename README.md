@@ -1,5 +1,6 @@
 # 3CX Basic Certification Notes
 Notes From Doing The 3CX Basic Certification
+```
 ---------------------------------------------
 
 Configuring a Desktop Phone:
@@ -453,3 +454,4 @@ Enable Voicemail transcription in 3CX
 Managment console -> Settings -> Voicemail and enable voicemail transcription
 Enter the API key you have copied.
 
+```
